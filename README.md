@@ -1,27 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/NAwkGfaw)
-# Trabalho Prático - Semana 04
+# Projeto Semana 4 - Desenvolvimento Web (HTML/CSS)
 
-Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
+## Dados Básicos
+* **Nome:** Miguel de Freitas Abood
+* **Matrícula:** 918872
+* **Proposta de Projeto:** Marketplace de ingressos para eventos
+* **Descrição:** É um website aonde você pode vender e comprar ingressos para eventos, criar e gerenciar seus próprios eventos e gerênciar os seus ingressos já comprados
 
-Nessa atividade, você deverá montar a página inicial do projeto escolhido, a organização do HTML aplicando semântica correta e uso aprimorado do CSS. Leia o enunciado completo no Canvas para mais detalhes.
+## Esboço do Projeto (Wireframe)
+Abaixo está o layout planejado para a página inicial:
 
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
+![Legenda do Esboço](public/Mockup.png) 
 
-## Informações Gerais
+## Home-page Finalizada
+Confira o resultado final da página desenvolvida:
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
-
-## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-
-## Print da home-page criada
-
-<<  COLOQUE A IMAGEM AQUI >>
+![Print da Home-page](public/home.png)
